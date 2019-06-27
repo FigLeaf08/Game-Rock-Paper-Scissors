@@ -1,4 +1,4 @@
-//This is a C++ program game for Rock Paper Scissors
+//This is a game for Rock Paper Scissors written in C++
 
 #include <iostream>
 #include <ctime>
