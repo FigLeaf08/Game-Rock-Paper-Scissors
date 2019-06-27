@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505283522 source:c:\users\ferna\documents\fernando shjc files semester 2 year 1\intro to programming in c++ - luis herrera\practice\rockpaperscissors\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
